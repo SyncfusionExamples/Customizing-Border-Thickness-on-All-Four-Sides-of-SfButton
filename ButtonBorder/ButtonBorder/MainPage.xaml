@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:buttons="clr-namespace:Syncfusion.Maui.Buttons;assembly=Syncfusion.Maui.Buttons"
+             x:Class="ButtonBorder.MainPage">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <ContentView BackgroundColor="Red" Padding="10,0,0,10">
+            <buttons:SfButton Text="SfButton"
+                           CornerRadius="0"
+                           WidthRequest="100"/>
+        </ContentView>
+
+    </StackLayout>
+
+
+</ContentPage>
