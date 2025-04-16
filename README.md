@@ -13,5 +13,5 @@ This section explains how to customize the four side different border thickness 
 ```
 
 **Output:**
-![Button Customization.png](https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjI5NDg4Iiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.kbZBIyhn7VoNgSTNbQ77DDNB_8ZognQnn1t4KqkcOjE)
 
+![Button Customization](https://github.com/user-attachments/assets/5d357ceb-a614-40e0-94c8-74bd27c0f3c2)
