@@ -1,4 +1,6 @@
-This section explains how to customize the four side different border thickness of the [.NET MAUI Button](https://www.syncfusion.com/maui-controls/maui-button). In SfButton within .NET MAUI, the Strokethickness property is of type double, allowing only a single value to be assigned. To achieve the four side different border thickness in .Net Maui we can use the SfButton within a contentview. In the contentview set the background color and padding properties. By using the padding property, we can set the padding for each side of an SfButton (left, top, right, bottom) that is used to provide the four side different border thickness for the SfButton.
+This section explains how to customize the border thickness on different sides of the .NET MAUI Button. In the SfButton, the StrokeThickness property is a double type, which means it only allows for a single value to be assigned for uniform border thickness.
+
+You can use the SfButton within a ContentView to set different border thicknesses on all four sides. You can simulate varying border thicknesses by adjusting the background color and padding properties in the ContentView. Specifically, modifying the padding for each side (left, top, right, and bottom) enables you to create the desired effect.
 
 **XAML:**
 ```
