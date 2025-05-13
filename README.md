@@ -1,6 +1,6 @@
-This section explains how to customize the border thickness on different sides of the .NET MAUI Button. In the SfButton, the StrokeThickness property is a double type, which means it only allows for a single value to be assigned for uniform border thickness.
+This section explains how to customize the border thickness on different sides of the [.NET MAUI Button](https://www.syncfusion.com/maui-controls/maui-button). In the SfButton, the [StrokeThickness](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Buttons.SfButton.html#Syncfusion_Maui_Buttons_SfButton_StrokeThickness) property is a double type, which means it only allows for a single value to be assigned for uniform border thickness.
 
-You can use the SfButton within a ContentView to set different border thicknesses on all four sides. You can simulate varying border thicknesses by adjusting the background color and padding properties in the ContentView. Specifically, modifying the padding for each side (left, top, right, and bottom) enables you to create the desired effect.
+You can use the SfButton within a `ContentView` to set different border thicknesses on all four sides. You can simulate varying border thicknesses by adjusting the background color and padding properties in the `ContentView`. Specifically, modifying the padding for each side (left, top, right, and bottom) enables you to create the desired effect.
 
 **XAML:**
 ```
